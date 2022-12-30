@@ -9,7 +9,7 @@
 
 #### 外部分享
 - GIAC2022上海站 - [哈啰系统稳定性建设演进之路](https://giac.msup.com.cn/2022sh/course?id=16354)
-- MSUP TOP100年度案例榜单 [https://www.top100summit.com/detail?id=16721](https://www.top100summit.com/detail?id=16721)
+- MSUP TOP100年度案例榜单 [哈啰多业务并行下的稳定性保障体系建设实践](https://www.top100summit.com/detail?id=16721)
 
 #### 个人文章
 - [哈啰出行高质量故障复盘法：“3+5+3”（附模板）](https://mp.weixin.qq.com/s/HNyyogUgpLkrQcie0n7BKw)
