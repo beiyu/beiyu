@@ -14,8 +14,9 @@
 
 #### 个人文章
 - [哈啰出行高质量故障复盘法：“3+5+3”（附模板）](https://mp.weixin.qq.com/s/HNyyogUgpLkrQcie0n7BKw)
+- [我们是如何保障哈啰930大促的](https://mp.weixin.qq.com/s/dP9FQbKbMyGaTYIxUTnzLQ)
 
 #### 个人联系
 Mail: taketoshine@gmail.com<br>
-Wechat: <br>
+Wechat(添加时请注明来自github): <br>
 ![241671173382_ pic](https://user-images.githubusercontent.com/2612991/208039579-6f68727e-0d87-4738-bc99-597c11ede735.jpg)
